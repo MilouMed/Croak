@@ -1,6 +1,7 @@
 # Croak
 Custom Source Engine branch based on Source Engine 2007, currently available on Windows in x86.
-Based on <a href="https://github.com/quiverteam/Engine">Quiver</a>
+
+Based on <a href="https://github.com/quiverteam/Engine">Quiver</a>.
 
 **Pull this repository with recursive submodules (`git clone --recursive`) to clone qpc and game/core folder**
 
