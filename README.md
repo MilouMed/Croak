@@ -27,10 +27,6 @@ Based on <a href="https://github.com/quiverteam/Engine">Quiver</a>.
 
 4. Build stdshader_xxx projects in Visual Studio again.
 
-### Linux and MacOS
-
-Linux and MacOS support is currently being worked on in the posix-support branch. If you want to help, See Supporting Non-Windows Platforms.
-
 ## Running the Game
 
 ### Windows
